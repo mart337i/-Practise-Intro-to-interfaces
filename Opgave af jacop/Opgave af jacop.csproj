@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+        <RootNamespace>Opgave_af_jacop</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="Internal Class\Inverntory.cs" />
+      <Compile Remove="foods\**" />
+      <Compile Remove="Internal Class\Weapon.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="foods\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="foods\**" />
+    </ItemGroup>
+
+</Project>

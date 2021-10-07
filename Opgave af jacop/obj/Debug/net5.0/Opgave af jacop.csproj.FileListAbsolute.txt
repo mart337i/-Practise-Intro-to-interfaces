@@ -1,0 +1,16 @@
+C:\Users\Egeskov\RiderProjects\Opgave af jacop\Opgave af jacop\bin\Debug\net5.0\Opgave af jacop.exe
+C:\Users\Egeskov\RiderProjects\Opgave af jacop\Opgave af jacop\bin\Debug\net5.0\Opgave af jacop.deps.json
+C:\Users\Egeskov\RiderProjects\Opgave af jacop\Opgave af jacop\bin\Debug\net5.0\Opgave af jacop.runtimeconfig.json
+C:\Users\Egeskov\RiderProjects\Opgave af jacop\Opgave af jacop\bin\Debug\net5.0\Opgave af jacop.runtimeconfig.dev.json
+C:\Users\Egeskov\RiderProjects\Opgave af jacop\Opgave af jacop\bin\Debug\net5.0\Opgave af jacop.dll
+C:\Users\Egeskov\RiderProjects\Opgave af jacop\Opgave af jacop\bin\Debug\net5.0\ref\Opgave af jacop.dll
+C:\Users\Egeskov\RiderProjects\Opgave af jacop\Opgave af jacop\bin\Debug\net5.0\Opgave af jacop.pdb
+C:\Users\Egeskov\RiderProjects\Opgave af jacop\Opgave af jacop\obj\Debug\net5.0\Opgave af jacop.csproj.AssemblyReference.cache
+C:\Users\Egeskov\RiderProjects\Opgave af jacop\Opgave af jacop\obj\Debug\net5.0\Opgave af jacop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egeskov\RiderProjects\Opgave af jacop\Opgave af jacop\obj\Debug\net5.0\Opgave af jacop.AssemblyInfoInputs.cache
+C:\Users\Egeskov\RiderProjects\Opgave af jacop\Opgave af jacop\obj\Debug\net5.0\Opgave af jacop.AssemblyInfo.cs
+C:\Users\Egeskov\RiderProjects\Opgave af jacop\Opgave af jacop\obj\Debug\net5.0\Opgave af jacop.csproj.CoreCompileInputs.cache
+C:\Users\Egeskov\RiderProjects\Opgave af jacop\Opgave af jacop\obj\Debug\net5.0\Opgave af jacop.dll
+C:\Users\Egeskov\RiderProjects\Opgave af jacop\Opgave af jacop\obj\Debug\net5.0\ref\Opgave af jacop.dll
+C:\Users\Egeskov\RiderProjects\Opgave af jacop\Opgave af jacop\obj\Debug\net5.0\Opgave af jacop.pdb
+C:\Users\Egeskov\RiderProjects\Opgave af jacop\Opgave af jacop\obj\Debug\net5.0\Opgave af jacop.genruntimeconfig.cache
