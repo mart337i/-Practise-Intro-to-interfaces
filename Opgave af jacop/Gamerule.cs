@@ -1,6 +1,4 @@
-﻿using Opgave_af_jacop.Internal_Class;
-
-namespace Opgave_af_jacop
+﻿namespace Opgave_af_jacop
 {
     public class Gamerule
     {

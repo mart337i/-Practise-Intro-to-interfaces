@@ -20,4 +20,9 @@
       <None Remove="foods\**" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Internal Class" />
+      <Folder Include="Weapons" />
+    </ItemGroup>
+
 </Project>

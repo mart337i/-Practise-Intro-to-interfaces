@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using Opgave_af_jacop.Internal_Class;
-using Opgave_af_jacop.Weapons;
 
 namespace Opgave_af_jacop
 {
@@ -33,6 +31,7 @@ namespace Opgave_af_jacop
         {
             Gamerule match = new Gamerule();
             Axe axe = new Axe();
+            Sword sword = new Sword();
             Baguet baguet = new Baguet();
             Player player1 = new Player();
             Player player2 = new Player();

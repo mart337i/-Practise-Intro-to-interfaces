@@ -1,7 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
-namespace Opgave_af_jacop.Internal_Class
+namespace Opgave_af_jacop
 {
     public class Player 
     {

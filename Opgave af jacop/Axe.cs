@@ -1,7 +1,6 @@
 ﻿using System;
-using Opgave_af_jacop.Internal_Class;
 
-namespace Opgave_af_jacop.Weapons
+namespace Opgave_af_jacop
 {
     public class Axe : IItem , IWeapon
     {
